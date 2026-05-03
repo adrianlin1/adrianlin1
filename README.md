@@ -7,6 +7,7 @@ I like building models. The longer the dataset, the better.
 #### What I'm working on
 
 - **[sentiment-to-signal](https://github.com/adrianlin1/sentiment-to-signal)** — a quantitative research pipeline that builds tradeable ML signals from alternative data, validated on equity and crypto markets *(in progress)*
+- **[hotel-booking-cancellation-prediction](https://github.com/adrianlin1/hotel-booking-cancellation-prediction)** — ML pipeline benchmarking 8 model families on 119K+ hotel reservations to predict cancellations, with hyperparameter tuning and feature-importance analysis *(BU Questrom BA 576)*
 - **[Credit-Climb](https://github.com/adrianlin1/Credit-Climb)** — multiplayer browser board game teaching credit scores and financial literacy, built for BU's Gamifying Learning course
 
 #### Toolkit
