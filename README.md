@@ -1,4 +1,4 @@
-### Hi, I'm Adrian 👋
+### Hi, I'm Adrian
 
 I'm a senior at Boston University's Questrom School of Business graduating in May 2026, with concentrations in Business Analytics and Finance. I'm interested in roles at the intersection of quantitative research, data science, and financial markets.
 
